@@ -1,0 +1,11 @@
+{
+    "title":"Lập trình cơ bản",
+    "description":"Khóa học giới thiệu react native cơ bản",
+    "movies":
+    [
+        {"id":"1", "title":"Giới thiệu về react native", "releaseYear":"2018"},
+        {"id":"2", "title":"Props và state", "releaseYear":"2019"},
+        {"id":"3", "title":"Làm việc với json", "releaseYear":"2020"},
+        {"id":"4", "title":"Trao đổi dữ liệu client server", "releaseYear":"2011"}
+    ]
+}
